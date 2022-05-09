@@ -1,5 +1,5 @@
-# Desafio de Projeto Git/GitHub
-Repositório criado para o desafio de projeto
+# Repositório para gerenciar anotações, projetos e códigos do Bootcamp DIO
+Repositório criado para o desafio de projeto e para gerenciar os arquivos relacionados ao Bootcamp
 
 ## Links Úteis
 
