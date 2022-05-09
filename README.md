@@ -1,4 +1,4 @@
-# Repositório para gerenciar anotações, projetos e códigos do Bootcamp DIO
+# Repositório para gerenciar anotações e projetos do Bootcamp da DIO
 Repositório criado para o desafio de projeto e para gerenciar os arquivos relacionados ao Bootcamp
 
 ## Links Úteis
