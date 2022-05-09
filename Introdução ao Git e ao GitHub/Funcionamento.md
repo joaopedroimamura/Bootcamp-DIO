@@ -5,4 +5,4 @@
 3. Tree: armazenam blobs, mas também podem apontar para outras Trees
 4. Commit: aponta para uma árvore, para um pai (commit base), para autor, mensagem (comentário) e timestamp (também possui seu SHA1) -> com isso todo o histórico de mudanças e atualizações é muito confiável e transparente
 
-[Estrutura Git.png](https://github.com/joaopedroimamura/dio-desafio-primeiro-repositorio/blob/main/Introdução%20ao%20Git%20e%20ao%20GitHub/Estrutura%20Git.png)
+![Estrutura Git.png](https://github.com/joaopedroimamura/dio-desafio-primeiro-repositorio/blob/main/Introdução%20ao%20Git%20e%20ao%20GitHub/Estrutura%20Git.png)
