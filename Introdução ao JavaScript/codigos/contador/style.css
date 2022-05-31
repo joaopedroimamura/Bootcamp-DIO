@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background: gray;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-weight: bold;
+}
+
+#currentNumber {
+    color: green;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+button {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin: 20px;
+}
+
+button[name='adicionar'] {
+    background: green;
+}
+
+button[name='adicionar']:hover {
+    background: #93C572;
+    cursor: pointer;
+}
+
+button[name='subtrair'] {
+    background: red;
+}
+
+button[name='subtrair']:hover {
+    background: #DE1738;
+    cursor: pointer;
+}
